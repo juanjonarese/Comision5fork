@@ -8,14 +8,15 @@ header {
   width: 100%;
 }
 .navbar-brand {
-  background-color: gold;
+  background-color: rgb(0, 255, 242);
   padding: 0px 5px;
   font-weight: bold;
+  border-radius: 10px;
 }
 
 nav .active {
   font-weight: bold;
-  color: brown !important;
+  color: rgb(225, 25, 168) !important;
 }
 
 /* Carousel  */
